@@ -1,0 +1,15 @@
+body {
+  background-color: #eef2f7;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+h4 {
+  margin-bottom: 15px;
+}
+
+button {
+  width: 100%;
+}
